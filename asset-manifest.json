@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/trippy/static/css/main.9f737c8b.css",
-    "main.js": "/trippy/static/js/main.39677cbc.js",
+    "main.css": "/trippy/static/css/main.788d9282.css",
+    "main.js": "/trippy/static/js/main.ee5d4434.js",
+    "static/media/about.jpg": "/trippy/static/media/about.4e6100a06673fca2db51.jpg",
+    "static/media/card3.jpg": "/trippy/static/media/card3.bb0e5281b510497c1e68.jpg",
+    "static/media/mountain4.jpg": "/trippy/static/media/mountain4.86775c66f7411d855011.jpg",
+    "static/media/contact.jpg": "/trippy/static/media/contact.32b3dea42170d62656d1.jpg",
+    "static/media/card2.jpg": "/trippy/static/media/card2.e21527dfa71b08993dfd.jpg",
+    "static/media/mountain2.jpg": "/trippy/static/media/mountain2.99203cdcd4115f74b8e4.jpg",
+    "static/media/mountain.jpg": "/trippy/static/media/mountain.1e1cc35b306679e8e81a.jpg",
+    "static/media/mountain3.jpg": "/trippy/static/media/mountain3.328640455a0ad73b142c.jpg",
+    "static/media/card1.jpg": "/trippy/static/media/card1.42a1e7eb79aab16e6b0f.jpg",
+    "static/media/service.jpg": "/trippy/static/media/service.fcfd3dce8b9a691a3ee2.jpg",
     "index.html": "/trippy/index.html",
-    "main.9f737c8b.css.map": "/trippy/static/css/main.9f737c8b.css.map",
-    "main.39677cbc.js.map": "/trippy/static/js/main.39677cbc.js.map"
+    "main.788d9282.css.map": "/trippy/static/css/main.788d9282.css.map",
+    "main.ee5d4434.js.map": "/trippy/static/js/main.ee5d4434.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f737c8b.css",
-    "static/js/main.39677cbc.js"
+    "static/css/main.788d9282.css",
+    "static/js/main.ee5d4434.js"
   ]
 }
